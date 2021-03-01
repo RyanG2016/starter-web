@@ -8,7 +8,8 @@ This is more information for the README file. Heheheheheheh
 
 ## How to Contribute
 
-You can contribute by adding more stuff to it. I am adding more information to the contribution section
+You can contribute by adding more stuff to it. I am adding more information to the contribution section.
+Please fork this repo them issue full request fopr eviuew
 
 ## Deployment
 This is deployment information
