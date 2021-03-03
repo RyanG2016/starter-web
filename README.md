@@ -9,7 +9,7 @@ This is more information for the README file. Heheheheheheh
 ## How to Contribute
 
 You can contribute by adding more stuff to it. I am adding more information to the contribution section.
-Please fork this repo them issue full request for rebiew
+Please fork this repo them issue full request for review. All rights reserverd
 
 ## Deployment
 This is deployment information
@@ -18,4 +18,3 @@ This more
 
 Copyright @2021
 
-For rebasing example, for myfeature branch too
